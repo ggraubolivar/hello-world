@@ -14,4 +14,6 @@ This is an example of a GitHub repository.
 
 ...and yet another.
 
-... cool.
+... I kinda added all permissions to my GitPod profile.
+
+... is that a bad thing?
