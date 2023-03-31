@@ -13,3 +13,5 @@ This is an example of a GitHub repository.
 ...and this is a change to the README.md file.
 
 ...and yet another.
+
+... cool.
